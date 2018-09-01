@@ -1,3 +1,5 @@
+从别人那克隆过来的，将来用作自己本地开发快速搭建环境使用。
+
 # docker-compose-file
 
 ### [CentOS 7 安装](https://github.com/judasn/Linux-Tutorial/blob/master/markdown-file/CentOS-7-Install.md)
